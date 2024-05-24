@@ -1,4 +1,4 @@
-his project involves developing a facial recognition system to facilitate employee entry scanning using features of the left and right sides of the face. The system leverages OpenCV's CascadeClassifier for real-time face detection and recognition.
+This project involves developing a facial recognition system to facilitate employee entry scanning using features of the left and right sides of the face. The system leverages OpenCV's CascadeClassifier for real-time face detection and recognition.
 
 Key Components:
 
